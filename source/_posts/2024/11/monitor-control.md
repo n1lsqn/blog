@@ -4,7 +4,7 @@ date: 2024-11-01 07:11:30
 tags:
   - SteamVR
   - VRChar
-thumbnailImage: https://github.com/n1lsqn/blog/blob/main/source/_posts/2024/11/monitor-control/VRChat_2024-10-28_23-13-55.719_1920x1080.png
+thumbnailImage: https://raw.githubusercontent.com/n1lsqn/blog/refs/heads/main/source/_posts/2024/11/monitor-control/VRChat_2024-10-28_23-13-55.719_1920x1080.png
 ---
 
 最近VR機器を使うことが増えてきており、マルチモニター環境においてSteamVRやVRChat等のVRゲームを起動したときに、モニターの接続を解除してあげるとFPSが自環境では5-10FPSの向上が見られたので備忘録。
@@ -16,12 +16,12 @@ thumbnailImage: https://github.com/n1lsqn/blog/blob/main/source/_posts/2024/11/m
 [multimonitortool](https://www.nirsoft.net/utils/multi_monitor_tool.html)をダウンロード。結構下のほうにあるのでCtrl+FでDownloadと検索したほうが幸せかもしれない。Languageにある日本語化ファイルもダウンロードしておく。
 
 # multimonitortoolでモニターIDの確認
-{% asset_img https://github.com/n1lsqn/blog/blob/main/source/_posts/2024/11/monitor-control/{2275EDBB-9E33-4D0F-945F-E54DA39CCF39}.png %}
+{% asset_img https://raw.githubusercontent.com/n1lsqn/blog/refs/heads/main/source/_posts/2024/11/monitor-control/{2275EDBB-9E33-4D0F-945F-E54DA39CCF39}.png %}
 
 起動して、モニターidを取得する。
 下部分に表示されているウィンドウと照らし合わせながら、モニターを右クリック
 
-{% asset_img https://github.com/n1lsqn/blog/blob/main/source/_posts/2024/11/monitor-control/{82CD15FE-57B8-424B-8C19-6DD341C76DF6}.png %}
+{% asset_img https://raw.githubusercontent.com/n1lsqn/blog/refs/heads/main/source/_posts/2024/11/monitor-control/{82CD15FE-57B8-424B-8C19-6DD341C76DF6}.png %}
 
 モニターIDをメモしておく
 
@@ -96,12 +96,12 @@ return
 
 先ほど書いたahkファイルを開くと
 
-{% asset_img https://github.com/n1lsqn/blog/blob/main/source/_posts/2024/11/monitor-control/{C695ED36-8484-413B-809D-B34F37F620CB}.png %} 
+{% asset_img https://raw.githubusercontent.com/n1lsqn/blog/refs/heads/main/source/_posts/2024/11/monitor-control/{C695ED36-8484-413B-809D-B34F37F620CB}.png %} 
 
 といわれるのではいを選択、now installみたいなウィンドウが出てきたらok。
 またahkファイルを開いてシステムトレイに追加されてたらok。緑でHと書いてあるロゴがそれ
 
-{% asset_img https://github.com/n1lsqn/blog/blob/main/source/_posts/2024/11/monitor-control/{73A5AC60-1C32-4DA3-8954-42F0548F1215}.png %}
+{% asset_img https://raw.githubusercontent.com/n1lsqn/blog/refs/heads/main/source/_posts/2024/11/monitor-control/{73A5AC60-1C32-4DA3-8954-42F0548F1215}.png %}
 
 だいぶ駆け足気味で書いているので、わかんなかったら遠慮なくTwitterのDMまでぜひ
 
