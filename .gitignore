@@ -8,3 +8,6 @@ public/
 .env
 .env.build
 .vercel
+
+yarn.lock
+package-lock.json
