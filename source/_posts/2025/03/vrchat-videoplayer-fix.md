@@ -22,6 +22,15 @@ netsh interface ipv6 set prefixpolicy 2002::/16 20 3
 netsh interface ipv6 set prefixpolicy ::/96 10 4
 ```
 
+** ※追記 2025/05/08 ** 一度 `netsh interface ipv6 reset`でリセットしてしまうと、上記のコマンドが動作しなくなるため、resetした場合は
+``` bash
+netsh interface ipv6 add prefixpolicy ::ffff:0:0/96 50 0
+netsh interface ipv6 add prefixpolicy ::1/128 40 1
+netsh interface ipv6 add prefixpolicy ::/0 30 2
+netsh interface ipv6 add prefixpolicy 2002::/16 20 3
+netsh interface ipv6 add prefixpolicy ::/96 10 4
+```
+
 を実行してみる。これでも治らなければルーターを再起動するか、そもそもIPv6を無効化してしまう。
 
 設定 -> ネットワークとインターネット -> ネットワークの詳細設定 -> 変えたいネットワークの右側にある下三角をクリック（大体イーサネット）-> その他のアダプターオプションの編集をクリック -> 上から8番目あたりにある「インターネットプロトコルバージョン6 (TCP/IPv6)」のチェックを外す -> OKをクリック -> 再起動
