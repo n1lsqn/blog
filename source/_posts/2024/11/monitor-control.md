@@ -4,7 +4,7 @@ date: 2024-11-01 07:11:30
 tags:
   - SteamVR
   - VRChar
-thumbnailImage: https://raw.githubusercontent.com/n1lsqn/blog/refs/heads/main/source/_posts/2024/11/monitor-control/VRChat_2024-10-28_23-13-55.719_1920x1080.png
+thumbnailImage: https://images.weserv.nl/?url=ssl:raw.githubusercontent.com/n1lsqn/blog/refs/heads/main/source/_posts/2024/11/monitor-control/VRChat_2024-10-28_23-13-55.719_1920x1080.png&w=1200&output=webp
 ---
 
 最近VR機器を使うことが増えてきており、マルチモニター環境においてSteamVRやVRChat等のVRゲームを起動したときに、モニターの接続を解除してあげるとFPSが自環境では5-10FPSの向上が見られたので備忘録。

@@ -9,6 +9,8 @@ tags:
 
 VRChat内の動画プレイヤーにおいてYouTubeのみが再生できない問題が発生していて、解決策の備忘録。
 
+<!-- more -->
+
 1. 管理者権限でコマンドプロンプトを実行
 2. `netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 100 4` を実行
 3. PC再起動

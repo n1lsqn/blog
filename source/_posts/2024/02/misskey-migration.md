@@ -6,6 +6,8 @@ tags: misskey
 
 # pg_dumpでバックアップを取得し、psqlで復元する。
 すでにバックアップは準備できているものとする。
+
+<!-- more -->
 ```sh
 sudo -u postgres psql
 ```

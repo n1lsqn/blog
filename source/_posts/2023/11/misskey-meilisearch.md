@@ -4,7 +4,6 @@ date: 2023-11-20 01:27:06
 tags: 
   - misskey
   - meilisearch
-thumbnailImage: https://raw.githubusercontent.com/misskey-dev/assets/main/banner.png
 ---
 
 ### Misskeyにmeilisearchを導入する方法
