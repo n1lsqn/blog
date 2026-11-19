@@ -186,6 +186,5 @@ node importer.js --config /home/misskey/.config/default.yml
 [misskey_meilisearch_importer](https://github.com/n1lsqn/misskey_meilisearch_importer.git)
 
 #### 参考
-[MisskeyでMeilisearchを導入するやり方](https://nanasi-apps.xyz/misskey-meilisearch)
 [のえるさんの投稿](https://fedibird.com/@noellabo/111419037137255692)
 [公式ドキュメント](https://www.meilisearch.com/docs/learn/cookbooks/running_production)

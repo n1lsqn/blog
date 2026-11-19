@@ -1,0 +1,6 @@
+sidebar:
+    author_links:
+        mail:
+            title: global.mail
+            url: mailto:owner@n1l.dev
+            icon: fa fa-envelope
