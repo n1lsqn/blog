@@ -1,5 +1,6 @@
 ---
 title: 知識を腐らせない仕組み系スキル — knowledge-maintainer、parallelize、ponytail
+description: AIエージェントの知識を腐らせないための仕組み系スキルを紹介。タスク終了時に知識を選別・同期するknowledge-maintainerとparallelize、過剰設計を抑えるponytail系スキルの役割と運用。
 date: 2026-11-19 12:52:00
 tags:
   - AIエージェント

@@ -1,5 +1,6 @@
 ---
 title: 自己ホストGitLabの運用メモ：配置の判断と日々の運用
+description: Proxmox上の単一コンテナで動かす自己ホストGitLab（gitlab.n1l.dev）の運用メモ。ホスト移設の判断、DBのみバックアップと設定の別退避、Runnerの安全な停止・再開など日常運用の型。
 date: 2026-11-19 12:46:00
 tags:
   - GitLab

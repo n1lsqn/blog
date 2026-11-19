@@ -1,5 +1,6 @@
 ---
 title: SteamVRを起動したらモニターの接続を解除してVRChatのパフォーマンスを改善する
+description: SteamVR起動時にモニターの接続を自動で解除し、VRChatのFPSを5〜10向上させる方法。マルチモニター環境でVRの負荷を下げる仕組みと設定の備忘録。
 date: 2024-11-01 07:11:30
 tags:
   - SteamVR

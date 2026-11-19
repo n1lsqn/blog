@@ -1,5 +1,6 @@
 ---
 title: ProxmoxのGPU VMでローカルAI環境を作る ― パススルーとメモリとドライバの話
+description: ProxmoxのGPUパススルーVMでOllamaとOpen WebUIのローカルLLM環境を作った実践メモ。バルーニングが効かないメモリ、ドライバとNVMLの不整合、VRAM 6GiBでのモデル選びなど、パススルーならではのハマりどころ。
 date: 2026-11-19 12:40:00
 tags:
   - Proxmox

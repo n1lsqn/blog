@@ -1,5 +1,6 @@
 ---
 title: 複数AIエージェントで共有する「共通の脳」agent-cortexの設計
+description: Codex、Gemini CLI、Antigravityと複数マシンで、ルール・知識・スキルを共有する「共通の脳」agent-cortexの設計。入口ファイルを薄く保つ工夫、3層構造、Gitによる自動同期と知識の棚卸しを紹介する。
 date: 2026-11-19 12:55:00
 tags:
   - AIエージェント

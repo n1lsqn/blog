@@ -1,5 +1,6 @@
 ---
 title: Proxmoxで踏んだ障害の記録：LXCのext4破損とホストのディスク枯渇
+description: 自宅Proxmox VEで踏んだ障害2件の記録。LXC内のext4破損でPBSバックアップが失敗した件と、ホストのディスク枯渇でVMがio-error停止した件について、症状・原因・対処・再発防止をまとめた。
 date: 2026-11-19 12:43:00
 tags:
   - Proxmox

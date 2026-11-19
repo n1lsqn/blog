@@ -1,5 +1,6 @@
 ---
 title: VRChat内の動画プレイヤーにおいてYouTubeが再生できない問題の解決法
+description: VRChat内の動画プレイヤーでYouTubeだけが再生できない問題の解決法。原因の切り分けと、実際に再生できるようになった対処をまとめた備忘録。
 date: 2025-03-26 08:01:04
 tags:
   - VRChat

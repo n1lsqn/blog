@@ -1,5 +1,6 @@
 ---
 title: Misskey 2023.11.0にmeilisearchを導入する
+description: Misskey 2023.11.0に検索バックエンドとしてMeilisearchを導入する手順。インデックス作成からaid/aidx形式のノートインポート、検索を有効化するまでの流れと、fork版インポーターを使った対処をまとめた。
 date: 2023-11-20 01:27:06
 tags: 
   - misskey

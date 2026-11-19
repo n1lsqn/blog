@@ -1,5 +1,6 @@
 ---
 title: dockerにはコンテナ当たりの容量制限があるという話。
+description: Dockerにはコンテナ当たりのストレージ容量制限があり、空きがあるのに no space left on device になることがある。その仕様に遭遇した経緯と対処のメモ。
 date: 2023-12-02 23:13:33
 tags: docker
 thumbnailImage: https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg

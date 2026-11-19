@@ -1,5 +1,6 @@
 ---
 title: misskeyのdbをバックアップから復元する。
+description: Misskeyのデータベースをバックアップから復元する手順。pg_dumpで取得したバックアップをpsqlでリストアする流れを、実施時のコマンドとともにまとめた。
 date: 2024-02-27 14:13:21
 tags: misskey
 ---
